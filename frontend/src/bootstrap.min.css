@@ -164,7 +164,7 @@
  }
  a:hover {
    color: #0d5875;
-   text-decoration: underline;
+  
  }
  a:not([href]):not([class]) {
    color: inherit;
@@ -3533,8 +3533,7 @@
    display: block;
    min-height: 1.3125rem;
    padding-left: 1.5rem;
-   -webkit-print-color-adjust: exact;
-   color-adjust: exact;
+  
  }
  .custom-control-inline {
    display: -ms-inline-flexbox;

@@ -1,0 +1,15 @@
+.mainback{
+  min-height: 93vh;
+  display: flex;
+  padding:10px 0px
+}
+.page{
+  width: 60%;
+}
+.heading{
+  font-size: 60px;
+  padding: 5px 10px;
+}
+p{
+  font-size: 30px;
+}
